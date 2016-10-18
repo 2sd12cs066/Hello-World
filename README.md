@@ -1,2 +1,10 @@
-# Hello-World
-exploring github
+//# Hello-World
+//exploring github
+
+class HW
+{
+  public static void main(String[] args)
+  {
+      System.out.println("Hello World");
+  }
+}
